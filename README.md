@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm John Frich Magan</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center"> Currently Learning To Be A Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
@@ -39,7 +39,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white"/>
 </p>
+
 
 **Backend**
 <p>
