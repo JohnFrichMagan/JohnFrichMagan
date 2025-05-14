@@ -23,7 +23,6 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **modern web and mobile applications**
 - 🌱 I’m currently learning **Next.js, TypeScript, and GraphQL**
 - 💬 Ask me about **React, Laravel, REST APIs, or UI/UX Design**
 - ⚡ Fun fact: **I turn coffee into scalable code**
